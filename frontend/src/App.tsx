@@ -1,7 +1,9 @@
+import {Button} from "./components/Button.tsx";
+
 export default function App() {
   return (
-    <h1 className="red text-3xl font-bold">
-      Hello world!
-    </h1>
+    <>
+        <Button variant={"primary"} size={"sm"} text={"sdf"} onClick={() => (1)} />
+    </>
   )
 }
