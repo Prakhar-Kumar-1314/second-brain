@@ -10,7 +10,7 @@ interface ButtonProps {
  }
 
  const variantStyles = {
-    primary: "bg-purple-600 text-white",
+    primary: "bg-purple-600 text-white-600",
     secondary: "bg-purple-400 text-purple-500"
 }
 

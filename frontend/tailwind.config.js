@@ -7,9 +7,13 @@ export default {
         purple: {
           600: "#5046e4",
           500: "#4a3ec8",
-          400: "#e0e7ff"
-        }
-      }
+          400: "#e0e7ff",
+        },
+        white: {
+          600: "#ffffff",
+          500: "#b5bbbe",
+        },
+      },
     },
   },
   plugins: [],
