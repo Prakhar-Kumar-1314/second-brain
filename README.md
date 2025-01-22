@@ -14,4 +14,4 @@ A web application built using TypeScript and the MERN stack to help users store 
 - **Backend**: Node.js with TypeScript and Express  
 - **Database**: MongoDB  
 - **Authentication**: JWT (JSON Web Tokens)  
-- **Styling**: CSS / Tailwind CSS / Bootstrap  
+- **Styling**: Tailwind CSS 
